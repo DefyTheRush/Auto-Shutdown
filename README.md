@@ -21,4 +21,4 @@ Notes:
 - I am NOT responsible for any damage done to anyone or anything from use of the program beyond its intended usage
 - I did not put a credit button on this program as it seems useless
 
-You can download the program [here](https://www.dropbox.com/s/vm913jkybqqkbj1/AutoShutdown.exe?dl=0)
+You can download the program [here](https://www.dropbox.com/s/xkegvr70oyt7lbc/AutoShutdown.exe?dl=0)
